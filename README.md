@@ -40,7 +40,7 @@ controls the two motors accordingly.
 
 The actual hardware prototype developed for this project is shown below.
 
-![Line Follower Robot](hardware/robot_photo.jpg)
+![Line Follower Robot](hardware/robot_photo2.jpg)
 
 ## Source Code
 
@@ -59,7 +59,7 @@ https://drive.google.com/file/d/1auawTGxZEX0XbqEV6Kb1qG7o-CJsYQNS/view?usp=shari
 
 ### Video Demonstration 2
 
-
+https://drive.google.com/file/d/1DbZmpIOx7D4XqYlcnZbt8sp6nAGupw1G/view?usp=sharing
 
 ## Project Features
 
